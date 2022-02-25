@@ -1,7 +1,4 @@
 '''
-Arnav Bhatia
-CIS 41A Fall 2020
-Unit I Take Home Assignment
 In this assignment, we learn how to inherit classes from each other using the juvenile and parent classes with books
 '''
 
@@ -71,24 +68,3 @@ def main():
     patron2.printCheckedOutBooks()
 
 main()
-
-'''
-Execution Results:
-Sorry The Girl with the Dragon Tattoo is an adult book
-Jimmy has checked out Alice in Wonderland
-Jimmy has checked out The Cat in the Hat
-Jimmy has the following books checked out:
-Alice in Wonderland
-The Cat in the Hat
-Sorry Jimmy you are at your limit of 2
-Jimmy has returned Alice in Wonderland
-Jimmy has checked out Harry Potter and the Sorcerer's Stone
-Jimmy has the following books checked out:
-The Cat in the Hat
-Harry Potter and the Sorcerer's Stone
-Sophia has checked out The Da Vinci Code
-Sophia has checked out The Hobbit
-Sophia has the following books checked out:
-The Da Vinci Code
-The Hobbit
-'''
