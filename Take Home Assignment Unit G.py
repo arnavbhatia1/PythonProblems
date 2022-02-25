@@ -1,7 +1,4 @@
 '''
-Arnav Bhatia
-CIS 41A Fall 2020
-Unit G Take Home Assignment
 In this assignment, we learn how to read a file, make a dictionary of lists, keys, and sets
 '''
 
@@ -63,28 +60,3 @@ print(len(popularStates), "of the 10 high population states have had presidents 
 for val in popularStates:
     if val in presidentsDict:
         print(val,presidentsDict[val])
-
-'''
-Execution Results:
-Highest population state in the Midwest is: IL 12802000
-
-The state with the most presidents is VA with 8 presidents:
-George_Washington
-James_Madison
-James_Monroe
-John_Tyler
-Thomas_Jefferson
-William_Henry_Harrison
-Woodrow_Wilson
-Zachary_Taylor
-
-8 of the 10 high population states have had presidents born in them.
-IL 1
-GA 1
-OH 7
-NC 2
-NY 5
-CA 1
-TX 2
-PA 1
-'''
