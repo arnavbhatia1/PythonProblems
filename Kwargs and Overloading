@@ -1,7 +1,4 @@
 '''
-Arnav Bhatia
-CIS 41A Fall 2020
-Unit H In-Class Assignment
 In this assignment, we demonstrate how to use Variable Keyword Arguments (kwargs) and Overloading Operators
 '''
 
@@ -97,17 +94,3 @@ print(c1)
 print(c2)
 print(c3)
 print(c4)
-
-'''
-Execution Results:
-Warning: temperature is 550
-Misc error # 404
-Warning: CO2level is 0.18
-Warning: CO2level is 0.2
-Misc error # 418
-
-5 pounds 4 shillings 3 pennies 
-3 pounds 4 shillings 5 pennies 
-8 pounds 8 shillings 8 pennies
-1 pounds 19 shillings 10 pennies
-'''
